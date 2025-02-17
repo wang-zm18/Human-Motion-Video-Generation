@@ -9,9 +9,9 @@ This repo aims to record SOTA works on the motion video generation.
   
 * [2023-11] MagicPose: Realistic Human Poses and Facial Expressions Retargeting with Identity-aware Diffusion | [Paper](https://arxiv.org/abs/2311.12052) | [Code](https://github.com/Boese0601/MagicDance) ![Stars](https://img.shields.io/github/stars/Boese0601/MagicDance) ICML'24
  
-* [2023-11] MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model | [Paper](https://arxiv.org/abs/2311.16498) | [Code](https://github.com/magic-research/magic-animate) ![Stars](https://img.shields.io/github/stars/magic-research/magic-animate)
+* [2023-11] MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model | [Paper](https://arxiv.org/abs/2311.16498) | [Code](https://github.com/magic-research/magic-animate) ![Stars](https://img.shields.io/github/stars/magic-research/magic-animate) CVPR'24
 
-* [2023-11] Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation | [Paper](https://arxiv.org/pdf/2311.17117.pdf) | [Code](https://github.com/MooreThreads/Moore-AnimateAnyone) ![Stars](https://img.shields.io/github/stars/MooreThreads/Moore-AnimateAnyone)
+* [2023-11] Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation | [Paper](https://arxiv.org/pdf/2311.17117.pdf) | [Code](https://github.com/MooreThreads/Moore-AnimateAnyone) ![Stars](https://img.shields.io/github/stars/MooreThreads/Moore-AnimateAnyone) CVPR'24
 
 * [2024-05] VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation | [Paper](https://arxiv.org/html/2405.18156v1)
 
