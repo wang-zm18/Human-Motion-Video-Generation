@@ -19,7 +19,7 @@ This repo aims to record SOTA works on the motion video generation.
   
 * [2024-09] RealisDance: Equip Controllable Character Animation with Realistic Hands | [Paper](https://arxiv.org/pdf/2409.06202) | [Code](https://github.com/damo-cv/RealisDance) ![Stars](https://img.shields.io/github/stars/damo-cv/RealisDance)  
 
-* [2024-MM] MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation [Code]([https://github.com/damo-cv/RealisDance](https://github.com/TMElyralab/MusePose) ![Stars](https://img.shields.io/github/stars/TMElyralab/MusePose)
+* [2024-MM] MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation [Code](https://github.com/TMElyralab/MusePose) ![Stars](https://img.shields.io/github/stars/TMElyralab/MusePose)
   
 * [2025-02] HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation | [Paper](https://arxiv.org/pdf/2502.04847)
 
