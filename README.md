@@ -13,6 +13,10 @@ This repo aims to record SOTA works on the human motion video generation.
 
 * [2023-11] Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation | [Paper](https://arxiv.org/pdf/2311.17117.pdf) | [Code](https://github.com/MooreThreads/Moore-AnimateAnyone) ![Stars](https://img.shields.io/github/stars/MooreThreads/Moore-AnimateAnyone) CVPR'24
 
+* [2023-11] HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting | [Code](https://github.com/alvinliu0/HumanGaussian) ![Stars](https://img.shields.io/github/stars/alvinliu0/HumanGaussian) CVPR'24
+
+* [2023-12] GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians | [Paper](https://arxiv.org/abs/2312.02134) [Code](https://github.com/aipixel/GaussianAvatar) ![Stars](https://img.shields.io/github/stars/aipixel/GaussianAvatar) CVPR'24
+
 * [2024-05] VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation | [Paper](https://arxiv.org/html/2405.18156v1)
 
 * [2024-07] MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance | [Paper](https://arxiv.org/abs/2406.19680) | [Code](https://github.com/Tencent/MimicMotion) ![Stars](https://img.shields.io/github/stars/Tencent/MimicMotion)
