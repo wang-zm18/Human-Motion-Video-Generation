@@ -23,20 +23,24 @@ This repo aims to record SOTA works on the human motion video generation.
   
 * [2025-02] HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation | [Paper](https://arxiv.org/pdf/2502.04847)
 
+* [2025-02] AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance [Paper](https://arxiv.org/pdf/2502.08189) [Code](https://github.com/AnyCharV/AnyCharV) ![Stars](https://img.shields.io/github/stars/AnyCharV/AnyCharV)
+
 ## Talking Head
 * [2023-11] MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model | [Paper](https://arxiv.org/abs/2311.16498) | [Code](https://github.com/magic-research/magic-animate) ![Stars](https://img.shields.io/github/stars/magic-research/magic-animate)
 
 * [2024-02] EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions | [Paper](https://arxiv.org/pdf/2402.17485) | [Code](https://github.com/HumanAIGC/EMO)![Stars](https://img.shields.io/github/stars/HumanAIGC/EMO)
 
 ## Virtual Try-On
-* [2014] Garment Replacement in Monocular Video Sequences, ACM TOG | [Paper](https://dl.acm.org/doi/10.1145/2634212)
+* [2014] Garment Replacement in Monocular Video Sequences, | [Paper](https://dl.acm.org/doi/10.1145/2634212) TOG'14
   
 * [2019] FW-GAN: Flow-Navigated Warping GAN for Video Virtual Try-On| [Paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Dong_FW-GAN_Flow-Navigated_Warping_GAN_for_Video_Virtual_Try-On_ICCV_2019_paper.html) ICCV'19
   
 * [2019] Unsupervised Image-to-Video Clothing Transfer | [Paper](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Pumarola_Unsupervised_Image-to-Video_Clothing_Transfer_ICCVW_2019_paper.html) ICCV'19
   
 * [2021] ShineOn: Illuminating Design Choices for Practical Video-based Virtual Clothing Try-on | [Code](https://gauravkuppa.github.io/publication/2021-01-09-shine-on-1) WACVW'21
-* 
+  
 * [2021] MV-TON: Memory-based Video Virtual Try-on network, | [Paper](https://arxiv.org/abs/2108.07502) | MM'21
   
-* [2022] ClothFormer: Taming Video Virtual Try-on in All Module | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_ClothFormer_Taming_Video_Virtual_Try-On_in_All_Module_CVPR_2022_paper.pdf) | [Code](https://github.com/luxiangju-PersonAI/ClothFormer) | ![Stars]([https://cloth-former.github.io/](https://img.shields.io/github/stars/luxiangju-PersonAI/ClothFormer) CVPR'22
+* [2022] ClothFormer: Taming Video Virtual Try-on in All Module | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_ClothFormer_Taming_Video_Virtual_Try-On_in_All_Module_CVPR_2022_paper.pdf) | [Code](https://github.com/luxiangju-PersonAI/ClothFormer) | ![Stars](https://img.shields.io/github/stars/luxiangju-PersonAI/ClothFormer) CVPR'22
+
+* [2025-02] CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation | [Paper](http://arxiv.org/abs/2501.11325v1) | [Code](https://github.com/zheng-chong/catv2ton) ![Stars](https://img.shields.io/github/stars/zheng-chong/catv2ton)
