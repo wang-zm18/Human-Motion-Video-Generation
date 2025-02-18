@@ -1,5 +1,5 @@
-# Motion-Video-Generation
-This repo aims to record SOTA works on the motion video generation.
+# Human-Motion-Video-Generation
+This repo aims to record SOTA works on the human motion video generation.
 
 ## Pose-Guided & Full Body
 
