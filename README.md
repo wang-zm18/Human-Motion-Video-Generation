@@ -52,9 +52,11 @@ This repo aims to record SOTA works on the human motion video generation.
   ## Vision Language Model
 * [2024-05] EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture | [Paper](https://arxiv.org/abs/2405.18991) | [Code](http://github.com/aigc-apps/EasyAnimate?tab=readme-ov-file) ![Stars](https://img.shields.io/github/stars/aigc-apps/EasyAnimate?tab=readme-ov-file)
 
+* [2024-08] CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer | [Paper](https://arxiv.org/abs/2408.06072) | [Code](https://github.com/THUDM/CogVideo)![Stars](https://img.shields.io/github/stars/THUDM/CogVideo)
+  
 * [2024-12] HunyuanVideo: A Systematic Framework For Large Video Generation Model | [Paper](https://arxiv.org/abs/2412.03603) | [Code](https://github.com/Tencent/HunyuanVideo) ![Stars](https://img.shields.io/github/stars/Tencent/HunyuanVideo)
 
 * [2024-12] Open-Sora Plan: Open-Source Large Video Generation Model | [Paper](https://arxiv.org/abs/2412.00131) | [Code](https://github.com/PKU-YuanGroup/Open-Sora-Plan)![Stars](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan)
   
-* [2024-08] CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer | [Paper](https://arxiv.org/abs/2408.06072) | [Code](https://github.com/THUDM/CogVideo)![Stars](https://img.shields.io/github/stars/THUDM/CogVideo)
+
 
