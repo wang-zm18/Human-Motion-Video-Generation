@@ -57,6 +57,9 @@ This repo aims to record SOTA works on the human motion video generation.
 * [2024-12] HunyuanVideo: A Systematic Framework For Large Video Generation Model | [Paper](https://arxiv.org/abs/2412.03603) | [Code](https://github.com/Tencent/HunyuanVideo) ![Stars](https://img.shields.io/github/stars/Tencent/HunyuanVideo)
 
 * [2024-12] Open-Sora Plan: Open-Source Large Video Generation Model | [Paper](https://arxiv.org/abs/2412.00131) | [Code](https://github.com/PKU-YuanGroup/Open-Sora-Plan)![Stars](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan)
+
+* [2025-02] Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model | [Paper](https://arxiv.org/abs/2502.10248) | [Code](https://github.com/stepfun-ai/Step-Video-T2V)![Stars](https://img.shields.io/github/stars/stepfun-ai/Step-Video-T2V)
+
   
 
 
