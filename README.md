@@ -49,9 +49,13 @@ This repo aims to record SOTA works on the human motion video generation.
   
 * [2022] ClothFormer: Taming Video Virtual Try-on in All Module | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_ClothFormer_Taming_Video_Virtual_Try-On_in_All_Module_CVPR_2022_paper.pdf) | [Code](https://github.com/luxiangju-PersonAI/ClothFormer) | ![Stars](https://img.shields.io/github/stars/luxiangju-PersonAI/ClothFormer) CVPR'22
 
+* [2024-05] ViViD: Video Virtual Try-on using Diffusion Models | [Paper](https://arxiv.org/abs/2405.11794) | [Code](https://github.com/alibaba-yuanjing-aigclab/ViViD)
+  
 * [2025-01] 1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On | [Paper](https://arxiv.org/pdf/2501.05369) | [Code](https://github.com/ningshuliang/1-2-1-MNVTON) ![Stars](https://img.shields.io/github/stars/ningshuliang/1-2-1-MNVTON)
-* 
+  
 * [2025-02] CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation | [Paper](http://arxiv.org/abs/2501.11325v1) | [Code](https://github.com/zheng-chong/catv2ton) ![Stars](https://img.shields.io/github/stars/zheng-chong/catv2ton)
+
+
 
   ## Vision Language Model
 * [2024-05] EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture | [Paper](https://arxiv.org/abs/2405.18991) | [Code](http://github.com/aigc-apps/EasyAnimate?tab=readme-ov-file) ![Stars](https://img.shields.io/github/stars/aigc-apps/EasyAnimate?tab=readme-ov-file)
