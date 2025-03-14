@@ -4,6 +4,8 @@ This repo aims to record SOTA works on the human motion video generation.
 ## Pose-Guided & Full Body
 
 * [2023-04] Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos | [Paper](https://arxiv.org/pdf/2304.01186) | [Code](https://github.com/mayuelala/FollowYourPose) ![Stars](https://img.shields.io/github/stars/mayuelala/FollowYourPose) AAAI'24
+
+* [2023-05] ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing | [Paper](https://arxiv.org/pdf/2305.17098.pdf) | [Code](https://github.com/thu-ml/controlvideo) ![Stars](https://img.shields.io/github/stars/thu-ml/controlvideo) arXiv'23
   
 * [2023-07] DISCO: Disentangled Control for Realistic Human Dance Generation | [Paper](http://openaccess.thecvf.com/content/CVPR2024/papers/Wang_DisCo_Disentangled_Control_for_Realistic_Human_Dance_Generation_CVPR_2024_paper.pdf) | [Code](https://github.com/Wangt-CN/DisCo) ![Stars](https://img.shields.io/github/stars/Wangt-CN/DisCo) CVPR'24
   
