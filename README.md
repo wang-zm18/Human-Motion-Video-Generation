@@ -31,6 +31,8 @@ This repo aims to record SOTA works on the human motion video generation.
 
 * [2025-02] AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance | [Paper](https://arxiv.org/pdf/2502.08189) | [Code](https://github.com/AnyCharV/AnyCharV) ![Stars](https://img.shields.io/github/stars/AnyCharV/AnyCharV)
 
+* [2025-04] UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation | [Code](https://github.com/ali-vilab/UniAnimate-DiT) ![Stars](https://img.shields.io/github/stars/ali-vilab/UniAnimate-DiT) Sci. China Inf. Sci.'25
+
 ## Talking Head
 * [2023-11] MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model | [Paper](https://arxiv.org/abs/2311.16498) | [Code](https://github.com/magic-research/magic-animate) ![Stars](https://img.shields.io/github/stars/magic-research/magic-animate)
 
