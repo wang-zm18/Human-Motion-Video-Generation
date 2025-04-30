@@ -40,7 +40,7 @@ This repo aims to record SOTA works on the human motion video generation.
 
 * [2024-11] EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation | [Paper](https://arxiv.org/abs/2411.10061) | [Code](https://github.com/antgroup/echomimic_v2) ![Stars](https://img.shields.io/github/stars/antgroup/echomimic_v2)  CVPR'25
 
-* [2025-04] FantasyTalking: Realistic Talking Portrait Generation via Coherent Motion Synthesis | [Paper](https://arxiv.org/abs/2504.04842) | [Code](https://github.com/username/repository) ![Stars](https://github.com/Fantasy-AMAP/fantasy-talking/stars/username/repository)
+* [2025-04] FantasyTalking: Realistic Talking Portrait Generation via Coherent Motion Synthesis | [Paper](https://arxiv.org/abs/2504.04842) | [Code](https://github.com/Fantasy-AMAP/fantasy-talking) ![Stars](https://img.shields.io/github/stars/Fantasy-AMAP/fantasy-talking?style=social)
 
 ## Virtual Try-On
 * [2014] Garment Replacement in Monocular Video Sequences, | [Paper](https://dl.acm.org/doi/10.1145/2634212) TOG'14
