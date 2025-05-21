@@ -33,6 +33,8 @@ This repo aims to record SOTA works on the human motion video generation.
 
 * [2025-04] UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation | [Code](https://github.com/ali-vilab/UniAnimate-DiT) ![Stars](https://img.shields.io/github/stars/ali-vilab/UniAnimate-DiT) Sci. China Inf. Sci.'25
 
+* [2025-05] MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation | [Paper](https://arxiv.org/abs/2505.10238) | [Code](https://github.com/undefined) ![Stars](https://img.shields.io/github/stars/undefined) arXiv'25
+
 ## Talking Head
 * [2023-11] MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model | [Paper](https://arxiv.org/abs/2311.16498) | [Code](https://github.com/magic-research/magic-animate) ![Stars](https://img.shields.io/github/stars/magic-research/magic-animate)
 
