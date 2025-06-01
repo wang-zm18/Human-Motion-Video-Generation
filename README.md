@@ -76,6 +76,8 @@ This repo aims to record SOTA works on the human motion video generation.
 
 * [2025-02] Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model | [Paper](https://arxiv.org/abs/2502.10248) | [Code](https://github.com/stepfun-ai/Step-Video-T2V)![Stars](https://img.shields.io/github/stars/stepfun-ai/Step-Video-T2V)
 
+* [2025-05] HunyuanVideo-Avatar: High-Fidelity Audio-Driven Human Animation for Multiple Characters | [Paper](https://arxiv.org/pdf/2505.20156) | [Code](https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar) ![Stars](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo-Avatar)
+
   
 
 
